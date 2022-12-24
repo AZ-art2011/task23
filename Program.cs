@@ -1,4 +1,4 @@
-﻿//task 21
+﻿//task 23
 
 Console.WriteLine("Введите число");
 int num = Convert.ToInt32(Console.ReadLine());
